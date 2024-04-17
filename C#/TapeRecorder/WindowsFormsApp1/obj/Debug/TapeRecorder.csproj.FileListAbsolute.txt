@@ -1,0 +1,22 @@
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.AssemblyReference.cache
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.GenerateResource.cache
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.CoreCompileInputs.cache
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\TapeRecorder.exe.config
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\TapeRecorder.exe
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\TapeRecorder.pdb
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.AssemblyReference.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.MainWindow.resources
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.GenerateResource.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.exe
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.pdb

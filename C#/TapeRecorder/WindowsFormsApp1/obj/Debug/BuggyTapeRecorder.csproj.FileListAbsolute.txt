@@ -1,0 +1,11 @@
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\BuggyTapeRecorder.exe.config
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\BuggyTapeRecorder.exe
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\bin\Debug\BuggyTapeRecorder.pdb
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.csproj.AssemblyReference.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.MainWindow.resources
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\TapeRecorder.Properties.Resources.resources
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.csproj.GenerateResource.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.exe
+C:\Users\Lieven\Pictures\_DEBUGGING WORKSHOP\C#\TapeRecorder\WindowsFormsApp1\obj\Debug\BuggyTapeRecorder.pdb
