@@ -8,4 +8,5 @@
 .bottom-layer {
 	width: 500px;
 	background-image: url('shaba.jpg');
+	background-size: 500px;
 }
